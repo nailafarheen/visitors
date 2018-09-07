@@ -1,1 +1,1 @@
-feature 1 by N
+Now proper naming convention
